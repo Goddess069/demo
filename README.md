@@ -393,7 +393,7 @@ Use the decrypted password to access the Veracrypt volume.
 Locate the Confidential.txt File:
 After mounting the Veracrypt volume, navigate to the appropriate location on the C: drive to find the "Confidential.txt" file.
 
-Open the "Confidential.txt" file and retrieve the secret code contained within.
+Open the "Confidential"  text file and retrieve the secret code contained within.
 ----------------------------------------------------------------
 
 https://crackstation.net/ to crack the hash
